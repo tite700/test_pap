@@ -1,0 +1,45 @@
+\hypertarget{classAclass}{}\doxysection{Aclass Class Reference}
+\label{classAclass}\index{Aclass@{Aclass}}
+
+
+Inheritance diagram for Aclass\+:
+% FIG 0
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classAclass_adcf55fa5db96c3d3cef2eb636ca3bd57}\label{classAclass_adcf55fa5db96c3d3cef2eb636ca3bd57}} 
+{\bfseries Aclass} (double T, double S, int M, int N, double mu)
+\item 
+\mbox{\Hypertarget{classAclass_ae99a9735ec7f9a2d36aa35acd14690b2}\label{classAclass_ae99a9735ec7f9a2d36aa35acd14690b2}} 
+double {\bfseries get\+\_\+T} () const
+\item 
+\mbox{\Hypertarget{classAclass_a45e7b429ef73d91afbb5bdbd6a3c7053}\label{classAclass_a45e7b429ef73d91afbb5bdbd6a3c7053}} 
+double {\bfseries get\+\_\+S} () const
+\item 
+\mbox{\Hypertarget{classAclass_a046ab9a866687700d544eac87184f2c6}\label{classAclass_a046ab9a866687700d544eac87184f2c6}} 
+int {\bfseries get\+\_\+M} () const
+\item 
+\mbox{\Hypertarget{classAclass_ab46323918abb93c36812e9b604113e74}\label{classAclass_ab46323918abb93c36812e9b604113e74}} 
+int {\bfseries get\+\_\+N} () const
+\item 
+\mbox{\Hypertarget{classAclass_ae386889e6b6994a072a590e899d41f34}\label{classAclass_ae386889e6b6994a072a590e899d41f34}} 
+double {\bfseries get\+\_\+mu} () const
+\item 
+\mbox{\Hypertarget{classAclass_a40f866222a95329a3341309755dfebf3}\label{classAclass_a40f866222a95329a3341309755dfebf3}} 
+void {\bfseries vecmult} (double $\ast$$\ast$A1, double $\ast$C, double $\ast$k, double $\ast$vec1, int N)
+\item 
+\mbox{\Hypertarget{classAclass_a245a1730156291d8d9a37891f92be296}\label{classAclass_a245a1730156291d8d9a37891f92be296}} 
+double {\bfseries max1} (double a, double b)
+\item 
+\mbox{\Hypertarget{classAclass_afb5e5cffff74cc06dbcfb64d5d9dc6a3}\label{classAclass_afb5e5cffff74cc06dbcfb64d5d9dc6a3}} 
+void {\bfseries Resolution} (double $\ast$$\ast$A, double $\ast$b, double $\ast$x, int n)
+\item 
+\mbox{\Hypertarget{classAclass_a868e02de3771c191dee221fb48c480ff}\label{classAclass_a868e02de3771c191dee221fb48c480ff}} 
+virtual void {\bfseries Methode} (double K, double r, double sigma)=0
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+AMere.\+h\item 
+AMere.\+cpp\end{DoxyCompactItemize}
